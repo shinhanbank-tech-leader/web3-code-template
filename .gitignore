@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+.npm/
+.yarn/
+
+# Hardhat/Foundry/Broadcast (optional; safe to ignore even if not used)
+cache/
+artifacts/
+out/
+broadcast/
+
+# Env files
+.env
+.env.*
+
